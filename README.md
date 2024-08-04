@@ -1,11 +1,3 @@
-### Hi there 👋
-
-
-**LukaszMatheus/LukaszMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 atualmente trabalho na Faganello
-- 🌱 Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas
+Meu nome é Lucas Matheus Churutekoski, sou de 2004 e atualmente estou cursando Tecnologia em Analise e Desenvolvimento de Sistemas no IFPR Campus de União da Vitória.Atualmente trabalho na Faganello Industria de Compensados, como Operador de maquinas. Sistemas
 
 
